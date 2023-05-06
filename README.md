@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Personal-Website
-Personal website using HTML, CSS, &amp; Javascript
+# Personal website using HTML, CSS, &amp; Javascript
 =======
 
 # Demo
